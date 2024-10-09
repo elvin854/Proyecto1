@@ -11,6 +11,11 @@ c) Anaconda Navigator - Jupiter
 d) Instalador de Git GUI
 e) Repositorio código fuente de Keaggle
 
+
+
+
+
+
 ## Instalación 🔧
 
 # Primer Paso 
@@ -20,6 +25,8 @@ e) Repositorio código fuente de Keaggle
     c) Descargamos el repositorio de Keaggle a traves de la URL: https://www.kaggle.com/datasets/omarhanyy/imdb-top-1000?resource=download
     d) Se descarga el instalador de GIT a través de la URL: https://git-scm.com/ para luego subir los repositorios a Github
     e) Se procede a crear una cuenta de Gihub para luego subir los repositorios del proyecto.
+    
+![ANACONDA](https://github.com/user-attachments/assets/c27ef3f4-75b2-42f3-80bb-3acf095928d8)
 
 # Importante y tener en cuenta
 
